@@ -41,3 +41,5 @@ f.close()                                                                       
 driver.close()                                                                      #close chrome
 
 #Einbauen: Abbrechen über konsole, IMMER f.close und driver.close!
+# wie bekommt man es hin dass die Zeilen immer geschrieben werden und nicht erst am ende?
+# in der Schleife das txt öffnen und immer wieder schließen? ist das unsauber?
